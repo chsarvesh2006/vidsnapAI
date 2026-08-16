@@ -1,3 +1,4 @@
+🔗 **Live Demo:** https://vidsnapai-qyf9.onrender.com
 # VidSnapAI 🎬
 
 VidSnapAI is a Flask-based web app for creating AI-powered Instagram-style reels. Upload your media, add a text prompt for narration, and combine everything into a short, shareable video.
