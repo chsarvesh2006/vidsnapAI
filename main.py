@@ -14,4 +14,5 @@ def create():
 def gallery():
     return render_template("gallery.html")
 
-app.run(debug=True)
+if __name__ == "__main__":
+       app.run(debug=True)
